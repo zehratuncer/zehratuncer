@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Zehra, a Computer Engineering student focused on developing AI-based applications using Python, Java, and C#. <br><br>My interests include:<br>- 🧠 Machine Learning & Deep Learning<br>- 🧬 EEG Analysis & Brain-Computer Interfaces<br>-💡 I love building smart systems that blend software with psychology and real-world behavior. My goal is to become an AI engineer who makes intelligent, ethical, and impactful solutions.<br>-🚀 Eager to learn, experiment, and grow — one commit at a time.
+Hi, I'm Zehra, a Computer Engineering student focused on developing AI-based applications using Python, Java, and C#. I'm also the vice president of the FI-TEC club at Mudanya University.<br><br>My interests include:<br>- 🧠 Machine Learning & Deep Learning<br>- 🧬 EEG Analysis & Brain-Computer Interfaces<br>-💡 I love building smart systems that blend software with psychology and real-world behavior. My goal is to become an AI engineer who makes intelligent, ethical, and impactful solutions.<br>-🚀 Eager to learn, experiment, and grow — one commit at a time.
 
 
 ## 🌐 Socials:
